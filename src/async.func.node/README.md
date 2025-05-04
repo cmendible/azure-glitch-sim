@@ -1,0 +1,1 @@
+union traces | union exceptions| where customDimensions['InvocationId'] == '<operation id>'| order by timestamp asc
