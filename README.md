@@ -14,7 +14,7 @@ Use of AZ API to create a Bing Seaarch Service respurce and connect it to AI Fou
 
 ## AKS Platform Logs
 
-If you want to know who does what in your AKS clusters you need to enabale platform logs (diagnostic se ttings) to have access to the audit logs:
+If you want to know who does what in your AKS clusters you need to enable platform logs (diagnostic settings) to have access to the audit logs:
 
 ```kql
 AKSAuditAdmin
